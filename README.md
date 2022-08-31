@@ -9,5 +9,5 @@ Autor: João Pedro de Moura Medeiros
 - Pede-se nas instruções do arquivo IT16 - Instruções Exercício Técnico.pdf para criar um programa implementando funcionalidades com base nos dados do arquivo     csv;
 - Baixe o arquivo br-capes-bolsistas-uab.csv para a utilização do programa;
 - O programa da etapa 2 está no arquivo ProgramaProcessoSeletivo.ipynb, baixe e execute ele em algum editor de sua preferência;
-- A versão python usada no programa foi 3.8.8;
+- A versão python usada no programa foi a 3.8.8;
 - Todos os dados foram implementados em funções sendo tratados em seguida;
